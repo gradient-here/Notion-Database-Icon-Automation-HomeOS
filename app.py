@@ -16,7 +16,11 @@ HEADERS = {
 
 STATUS_EMOJI = {
     "Not started": "🔹",
+    "Not started": "◼️",
     "In progress": "⏳",
+    "Awaiting input": "↩️",
+    "Scheduled": "🗓️",
+    "Won't Do": "❌",
     "Done": "✅"
 }
 
